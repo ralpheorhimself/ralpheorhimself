@@ -42,6 +42,12 @@ Here are some of the technologies I'm able to work with.
 
 #### Backend & Database
 ---
+## Certificates
+<p align="left"> 
+  <a href="https://www.credly.com/badges/7e5b9f46-0075-45da-bbd2-bc073e2ac912/public_url" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+</p>
 
 ## 🔗 Connect with Me
 
